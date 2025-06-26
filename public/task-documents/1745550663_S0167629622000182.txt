@@ -1,0 +1,11 @@
+Claire E Boone, Pablo Celhay, Paul Gertler, Tadeja Gracner, Josefina Rodriguez,
+How scheduling systems with automated appointment reminders improve health clinic efficiency,
+Journal of Health Economics,
+Volume 82,
+2022,
+102598,
+ISSN 0167-6296,
+https://doi.org/10.1016/j.jhealeco.2022.102598.
+(https://www.sciencedirect.com/science/article/pii/S0167629622000182)
+Abstract: Missed clinic appointments or no-shows burden health care systems through inefficient use of staff time and resources. Scheduling software with automatic appointment reminders shows promise to improve clinics’ management through timely cancellations and re-scheduling, but at-scale evidence is missing. We study a nationwide text message appointment reminder program in Chile implemented at primary care clinics for patients with chronic disease. Using longitudinal clinic-level data, we find that the program did not change the number of visits by chronic patients eligible to receive the reminder but visits from other patients ineligible to receive reminders increased by 5.0% in the first year and 7.4% in the second. Clinics treating more chronic patients and those with a relatively younger patient population benefited more from the program. Scheduling systems with automatic appointment reminders were effective in increasing clinics’ ability to care for more patients, likely due to timely cancellations and re-scheduling.
+Keywords: Automatic appointment reminders; Health care; Large-scale intervention; No-shows; JEL; I11; I12; I18
