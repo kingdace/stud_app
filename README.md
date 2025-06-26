@@ -1,8 +1,10 @@
-## RealTime Task Manager App with Laravel 11, Laravel Reverb and Vue 3 + TypeScript
+## RealTime Task Manager App with Laravel 11, Laravel Reverb and Vue 3 + TypeScript/Javascript
+
+## With React Native Mobile Application
 
 ### Steps to run this project:
 
-1. git clone `https://github.com/Bienfait-ijambo/realtime-task-app.git`
+1. git clone `https://github.com/kingdace/stud_app.git`
 
 2. cd in `in the project`
 
