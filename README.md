@@ -16,8 +16,8 @@
 
 7. Run `php artisan queue:work` for background process
 
-8. Run 'php artisan reverb:start'
+8. Run `php artisan reverb:start`
 
-9. Run 'npm run dev'
+9. Run `npm run dev`
 
 NB : Make sure you got maildev for TestingEmail locally
